@@ -1,5 +1,3 @@
-## Hi there 👋
-
 #### Projects
 
 [Onramp - Docker and Traefik with all the stuffing](https://github.com/traefikturkey/onramp)
