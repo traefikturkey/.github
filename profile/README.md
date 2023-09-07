@@ -1,13 +1,17 @@
 ## Hi there 👋
 
 We provide traefik with all the stuffing!
-<!--
 
-**Here are some ideas to get you started:**
+[Onramp - Docker and Traefik with all the fixins](https://github.com/traefikturkey/onramp)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Setup scripts for various OS installs](https://github.com/traefikturkey/onvoy)
+
+[Guides](https://github.com/traefikturkey/guides)
+
+[Awesome Homelab Links](https://github.com/traefikturkey/Awesome-Homelab)
+
+[Ontology - Our devcontainer with ansible, kubectl, and helm](https://github.com/traefikturkey/ontology)
+
+[Dotbot starter repo](https://github.com/traefikturkey/dotfiles)
+
+
