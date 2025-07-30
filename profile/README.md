@@ -10,6 +10,8 @@
 
 [Oncall - Packer image automation and example Terraform](https://github.com/traefikturkey/oncall)
 
+[Joyride - docker dynamic dns server that uses labels](https://github.com/traefikturkey/joyride)
+
 [Our Dotfiles Template Repo](https://github.com/traefikturkey/dotfiles)
 
 #### Documentation
