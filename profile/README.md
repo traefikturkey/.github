@@ -10,6 +10,8 @@
 
 [Ontology - Our devcontainer with ansible, kubectl, and helm](https://github.com/traefikturkey/ontology)
 
+[Easement - Simple experimenting with containerized services](https://github.com/traefikturkey/easement)
+
 [Our Dotbot Dotfiles Template Repo](https://github.com/traefikturkey/dotfiles)
 
 
